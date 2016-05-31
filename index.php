@@ -1,5 +1,5 @@
 <?php
-require('autoload.php');
+require('src/autoload.php');
 use jenkins\phpunit\conversion;
 $unitFrom = '';
 $unitTo = '';
